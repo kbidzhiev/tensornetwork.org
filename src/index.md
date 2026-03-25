@@ -16,7 +16,6 @@ learning, and many other fields.
 <b>Resources</b>:
 
 - [[Review Articles & Learning Resources|reviews_resources]]
-- [Tensor4All Discourse Forum](https://tensor4all.discourse.group) &nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #F89D00;">[New]</span>
 
 <b>Fundamentals</b>:
 
